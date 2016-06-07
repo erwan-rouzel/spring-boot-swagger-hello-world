@@ -1,4 +1,4 @@
-# Simple Hello World documented REST API
+# Simple Hello World documented RESTful API
 
 Spring Boot + Swagger
 
