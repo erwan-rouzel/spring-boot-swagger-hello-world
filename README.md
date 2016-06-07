@@ -2,7 +2,7 @@
 
 Spring Boot + Swagger
 
-Build with Maven. Then just run the HelloWorld class to start the embedded standalone Tomcat server.
+Just run the HelloWorld class with Maven to start the embedded standalone Tomcat server.
 
 Hello World message:
 ```
